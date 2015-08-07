@@ -90,7 +90,7 @@ io.on('connection', function(socket)
 			}
 			catch(err)
 			{
-			    console.error("Error when processing game data", err)
+				console.error("Error when processing game data", err)
 			}
 		}
     })

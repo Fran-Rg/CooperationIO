@@ -5,6 +5,7 @@ Do you want to challenge your colleagues/friends thought a list a games requirin
 
 ##Install
 Install node.js: http://nodejs.org/
+
 Then ```npm install```
 
 ##Games
@@ -16,4 +17,4 @@ The possible games are:
 
 Once you built and made all your games, list them in game.js in the "games" list.
 
-Run ```node main.js``` and visit localhost:3000.
+Run ```node main.js``` and visit http://localhost:3000
